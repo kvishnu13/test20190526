@@ -3,7 +3,7 @@ window.onload = function() {
 
 var b = document.getElementsByClassName("home-categories-main");
 for(i=0; i<b.length; i++){
-b[0].innerHTML = "All Travel Designers";
+b[0].innerHTML = "Blahh All Travel Designers";
 b[i].style.letterSpacing = "2px";
 b[i].style.fontSize = "13px";
 }
