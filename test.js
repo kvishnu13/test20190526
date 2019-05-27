@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 window.onload = function() {
 
 var b = document.getElementsByClassName("home-categories-main");
@@ -34,4 +34,3 @@ for(i=0; i<e.length; i++){
 //a[0].style.letterSpacing = "2px";
 
 }
-</script>
